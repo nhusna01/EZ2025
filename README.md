@@ -1,1 +1,1 @@
-# EZ2025
+# Student-Dashboard
